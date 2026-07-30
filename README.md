@@ -92,3 +92,18 @@ City-level revenue, revenue per customer, payment failure rate by city, revenue 
 3. Open `PROJECT C.pbix` in Power BI Desktop
 4. Connect to your local PostgreSQL instance
 
+---
+
+## Screenshots
+
+### Executive Overview
+![Executive Overview](Executive_overview.png)
+
+### Customer Intelligence
+![Customer Intelligence](Customer_intelligence.png)
+
+### Transaction Intelligence
+![Transaction Intelligence](Transaction_intelligence.png)
+
+### Geographic Intelligence
+![Geographic Intelligence](Geographic_intelligence.png)
